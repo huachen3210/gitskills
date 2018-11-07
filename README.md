@@ -1,5 +1,6 @@
 hhhhh
 lalala
+git is a free software
 <<<<<<< HEAD
 1234
 skdflf
